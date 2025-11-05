@@ -54,7 +54,7 @@ form{
     width: 150px;
 }
 
-.lower-form-text{
+#lower-form-text{
     font-size: 14px;
     background-color: #ffffff;
     padding: 20px;
